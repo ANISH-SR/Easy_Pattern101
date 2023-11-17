@@ -40,7 +40,7 @@ int main(){
             }
             cout << endl;
             d = d + 1;
-
+        //Merger wtf??
         }
     }
 
