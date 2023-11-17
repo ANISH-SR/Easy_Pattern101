@@ -4,6 +4,7 @@ Anish this side..
 
 This code consists of a simple pattern problem having the below pattern.
 
+
     1
    121
   12321
