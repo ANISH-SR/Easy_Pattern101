@@ -28,4 +28,20 @@ int main(){
         cout << endl;
         i = i + 1;
         }
+        cout << endl;
+
+        int d = 1;
+        
+        while(d<=n){
+            int m = 1;
+            while(m<=d){
+                cout << "*";
+                m = m + 1;
+            }
+            cout << endl;
+            d = d + 1;
+
+        }
     }
+
+
